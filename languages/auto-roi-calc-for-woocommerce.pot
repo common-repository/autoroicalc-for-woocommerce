@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: sk_SK\n"
+
+msgid "Please update your settings let we can automatically calculate and collect your WooCommerce orders performace."
+msgstr "Aktualizujte svoje nastavenia, aby sme mohli automaticky vypočítať a reportovať výkonnosť vašich WooCommerce objednávok."
+
+msgid "API Credentials"
+msgstr "API prihlasovacie údaje"
+
+msgid "Please provide your AutoROICalc API credentials."
+msgstr "Prosím, zadajte vaše AutoROICalc API prihlasovacie údaje."
+
+msgid "API User Name"
+msgstr "API používateľské meno"
+
+msgid "Your AutoROICalc API User Name (e-mail)."
+msgstr "Vaše AutoROICalc API používateľské meno (e-mail)."
+
+msgid "API Password"
+msgstr "API heslo"
+
+msgid "Your AutoROICalc API Password."
+msgstr "Vaše AutoROICalc API heslo."
+
+msgid "Purchasing Price"
+msgstr "Nákupná cena"
+
+msgid "Select your product purchasing price (cost of goods) meta field. This is for calculating your orders profit."
+msgstr "Prosím, vyberte meta pole nákupnej ceny produktu. Toto slúži na výpočet zisku z vašich objednávok."
+
+msgid "Purchasing Price Meta Field"
+msgstr "Meta pole nákupnej ceny"
+
+msgid "Select a WooCommerce product purchasing price meta field."
+msgstr "Vyberte meta pole nákupnej ceny produktu WooCommerce."
